@@ -3,7 +3,7 @@
 const browserName = navigator.appName;
 const version = navigator.appVersion;
  //create a message
-const message =  "You are using" + browserName + " version " + version.
+const message =  'You are using' + browserName + " version " + version.
 
 	//Display the msg in browser info div
 	const browserInfoDiv = document.getElementById('browser-info');
